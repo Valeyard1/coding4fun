@@ -1,8 +1,15 @@
 # Exercícios-URI
 
-Este repositório contém alguns exercícios do URI Online Judge, feitos por:
+Este repositório contém alguns exercícios do URI Online Judge.
 
-Leonardo Ferreira: https://github.com/Valeyard1 <br />
-Adiel Pereira: https://github.com/pereiraadiel <br />
-Breno Caldeira: https://github.com/breno-cn <br />
-Felipe Belisário: https://github.com/FelipeBEL <br />
+Cada diretório terá os seguintes arquivos:
+
+- `new.sh`: Adiciona um novo diretório para o exercicio
+
+    Executar no mesmo diretório da seguinte forma `. ./new.sh <numero-do-exercicio>`
+
+- `execute.sh`: Executa o exercicio já com os inputs
+
+    Executar no mesmo diretório da seguinte forma `./execute.sh <numero-do-exercicio>`
+
+- `refactor.sh`: Move todos os exercícios pra uma pasta por exercicio
