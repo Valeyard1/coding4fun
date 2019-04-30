@@ -10,6 +10,8 @@ Cada diretório terá os seguintes arquivos:
 
 - `execute.sh`: Executa o exercicio já com os inputs
 
-    Executar no mesmo diretório da seguinte forma `./execute.sh <numero-do-exercicio>`
+    Executar no mesmo diretório da seguinte forma `./execute.sh <numero-do-exercicio> --lang <linguagem>`
+
+    \<linguagem\> pode ser "c" ou "python"
 
 - `refactor.sh`: Move todos os exercícios pra uma pasta por exercicio
